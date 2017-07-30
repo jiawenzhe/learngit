@@ -1,1 +1,3 @@
 today is a nice day
+I want to goto home
+a newline is added
